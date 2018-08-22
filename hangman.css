@@ -1,0 +1,65 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.letter {
+  border-bottom: 2px solid #000;
+  display: inline-block;
+  font-size: 5vw;
+  width: 5vw;
+  margin: 2vw;
+  text-align: center;
+}
+.alphabet {
+  list-style: none;
+}
+.alphabet li {
+  color: #000;
+  display: inline;
+  font-weight: bold;
+  line-height: 2rem;
+}
+.modal {
+  background: rgba(153,153,153,0.5);
+  display: none;
+  position: absolute;
+  height: 100vh;
+  width:100vw;
+  top:0;
+  left:0;
+}
+
+.modal-content {
+  background: rgba(153,153,153,0.8);  
+  position: absolute;
+  height: 50vh;
+  width:50vw;
+  top:0;left:0;bottom:0;right:0;
+  margin: auto;  
+  text-align: center;
+}
+
+.modal-content span {
+  color: initial;
+  font-size: 2rem;
+  padding: 5px;
+  position: absolute;
+  right: 10px;
+  text-decoration: none;
+}
+
+#end-message {
+ font-size: 5rem;
+}
+
+.button {
+  margin: auto;
+  background: lightsteelblue;
+  border: 2px solid blue;
+  border-radius: 5px;
+  font-size: 2rem;
+  padding: 10px;
+  text-decoration: none;
+}
+

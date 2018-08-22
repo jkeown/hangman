@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="400" viewBox="0 0 79.375 105.833" id="svg8">
+  <defs id="defs2">
+    <filter id="filter4530" x="-.006" width="1.012" y="-.366" height="1.732" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation=".202" id="feGaussianBlur4532"/>
+    </filter>
+  </defs>
+  <g id="layer3">
+    <path id="rect4508" fill="#e9d073" fill-opacity=".8" stroke-width=".265" d="M0 1.058h79.375v104.51H0z"/>
+    <path id="rect4516" fill="#868784" fill-opacity=".8" stroke-width=".265" filter="url(#filter4530)" d="M0 14.023h79.375v1.323H0z"/>
+    <path id="rect4510" stroke-width=".265" d="M0 0h79.375v14.552H0z"/>
+    <path d="M0 25.135h79.375" id="path4534" fill="none" stroke="#75a2a6" stroke-width=".265"/>
+    <path id="path4536" d="M0 30.427h79.375" fill="none" stroke="#75a2a6" stroke-width=".265"/>
+    <path d="M0 35.719h79.375" id="path4538" fill="none" stroke="#75a2a6" stroke-width=".265"/>
+    <path id="path4540" d="M0 41.01h79.375" fill="none" stroke="#75a2a6" stroke-width=".265"/>
+    <path d="M0 46.302h79.375" id="path4542" fill="none" stroke="#75a2a6" stroke-width=".265"/>
+    <path id="path4544" d="M0 51.594h79.375" fill="none" stroke="#75a2a6" stroke-width=".265"/>
+    <path d="M0 56.885h79.375" id="path4546" fill="none" stroke="#75a2a6" stroke-width=".265"/>
+    <path id="path4548" d="M0 62.177h79.375" fill="none" stroke="#75a2a6" stroke-width=".265"/>
+    <path d="M0 67.469h79.375" id="path4550" fill="none" stroke="#75a2a6" stroke-width=".265"/>
+    <path id="path4552" d="M0 72.76h79.375" fill="none" stroke="#75a2a6" stroke-width=".265"/>
+    <path d="M0 78.052h79.375" id="path4554" fill="none" stroke="#75a2a6" stroke-width=".265"/>
+    <path id="path4556" d="M0 83.344h79.375" fill="none" stroke="#75a2a6" stroke-width=".265"/>
+    <path d="M0 88.635h79.375" id="path4558" fill="none" stroke="#75a2a6" stroke-width=".265"/>
+    <path id="path4560" d="M0 93.927h79.375" fill="none" stroke="#75a2a6" stroke-width=".265"/>
+    <path d="M0 99.219h79.375" id="path4562" fill="none" stroke="#75a2a6" stroke-width=".265"/>
+    <path id="path4570" d="M7.938 14.552v91.281" fill="none" stroke="#ff4136" stroke-width=".529"/>
+    <path d="M6.35 14.552v91.281" id="path4568" fill="none" stroke="#ff4136" stroke-width=".529"/>
+    <text style="line-height:1.25;-inkscape-font-specification:'Gill Sans Ultra Bold, '" x="10.955" y="10.332" id="text4574" font-weight="400" font-size="9.878" font-family="Gill Sans Ultra Bold" letter-spacing="0" word-spacing="0" fill="#aaa" stroke-width=".265">
+      <tspan id="tspan4572" x="10.955" y="10.332" style="-inkscape-font-specification:'Gill Sans Ultra Bold, '">Hangman</tspan>
+    </text>
+  </g>
+  <g id="layer1" transform="translate(0 -191.167)" fill="none">
+    <ellipse id="head" cx="39.953" cy="227.056" rx="7.362" ry="6.942" stroke="#000" stroke-width="1.395" stroke-linejoin="round"/>
+    <path d="M39.88 235.457l-.07 15.361" id="body" stroke="#000" stroke-width="1.395" stroke-linecap="round"/>
+    <path id="right-leg" d="M39.055 252.302l-4.8 14.678" stroke="#000" stroke-width="1.395" stroke-linecap="round"/>
+    <path id="left-leg" d="M40.722 252.248l5.353 14.507" stroke="#000" stroke-width="1.395" stroke-linecap="round"/>
+    <path id="left-arm" d="M41.58 238.31l3.841 11.045" stroke="#000" stroke-width="1.395" stroke-linecap="round"/>
+    <path d="M38.237 238.31l-3.841 11.045" id="right-arm" stroke="#000" stroke-width="1.395" stroke-linecap="round"/>
+    <g id="face" transform="matrix(.54305 0 0 .5121 18.4 117.638)" stroke="#000" stroke-width="1.323">
+      <path id="path4501" d="M32.222 208.718l3.798 2.882" stroke-linecap="round"/>
+      <path d="M36.02 208.718l-3.798 2.882" id="path4503"/>
+      <path id="path4505" d="M36.02 208.718l-3.798 2.882" stroke-linecap="round"/>
+      <path d="M42.805 208.718l3.798 2.882" id="path4507" stroke-linecap="round"/>
+      <path id="path4509" d="M46.603 208.718l-3.798 2.882"/>
+      <path d="M46.603 208.718l-3.798 2.882" id="path4511" stroke-linecap="round"/>
+      <path id="path4513" d="M34.928 218.197l9.519 2.917" stroke-linecap="round"/>
+    </g>
+    <path d="M58.208 282.977H10.265" id="path4500" stroke="#a40" stroke-width="1.035" stroke-linecap="round"/>
+    <path d="M17.722 282.506v-68.32h22.374v4.018" id="path4502" stroke="#a40" stroke-width="1.035" stroke-linecap="round"/>
+  </g>
+</svg>
