@@ -8,11 +8,8 @@ html, body {
   align-items: center;
 }
 #svg{
-  border: 2px solid green;
   display: flex;
   justify-content: center;
-}
-#svg svg{
   height: 50vh;
   width: 50vw;
 }
