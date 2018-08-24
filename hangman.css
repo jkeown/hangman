@@ -1,6 +1,8 @@
 html, body {
   height: 100%;
   width: 100%;
+  margin: 0;
+  padding: 20px 0;
 }
 .container{
   display: flex;
@@ -8,10 +10,13 @@ html, body {
   align-items: center;
 }
 #svg{
-  display: flex;
-  justify-content: center;
   height: 50vh;
   width: 50vw;
+}
+.word{
+  padding: 0;
+  text-align: left;
+  border: 2px solid green;
 }
 .letter {
   border-bottom: 2px solid #000;
@@ -23,13 +28,14 @@ html, body {
 }
 .alphabet {
   list-style: none;
-  font-size: 2vw;
 }
 .alphabet li {
   color: #000;
   display: inline;
+  font-size: 2.1rem;
   font-weight: bold;
-  line-height: 2rem;
+  line-height: 4rem;
+  letter-spacing: 1.1rem;
 }
 .modal {
   background: rgba(153,153,153,0.5);
