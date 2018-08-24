@@ -27,14 +27,15 @@ html, body {
 }
 .alphabet {
   list-style: none;
+  margin: 0;
+  /* max-width: 25vw; */
 }
 .alphabet li {
   color: #000;
   display: inline;
-  font-size: 5vw;
   font-weight: bold;
-  line-height: 5vw;
-  letter-spacing: 2.5vw;
+  line-height: 30px;
+  letter-spacing: 20px;
 }
 .modal {
   background: rgba(153,153,153,0.5);
