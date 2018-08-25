@@ -28,7 +28,6 @@
   alphabetUl.addEventListener('click', function(e){
     e.target.style.fontWeight = 'normal';
     e.target.style.color = '#555';
-    e.target.style.textDecoration = 'line-through';
     let elementClicked = e.target.textContent;
     let letterMatchIndices = [];
 

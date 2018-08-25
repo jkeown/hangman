@@ -34,7 +34,7 @@ html, body {
   color: #000;
   display: inline;
   font-weight: bold;
-  line-height: 30px;
+  line-height: 3;
   letter-spacing: 20px;
 }
 .modal {
@@ -67,7 +67,7 @@ html, body {
 }
 
 #end-message {
- font-size: 5rem;
+ font-size: 5vw;
 }
 
 .button {
