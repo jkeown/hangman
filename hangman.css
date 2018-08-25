@@ -50,7 +50,7 @@ html, body {
   background: rgba(153,153,153,0.8);  
   position: absolute;
   height: 50vh;
-  width:50vw;
+  width:100vw;
   top:0;left:0;bottom:0;right:0;
   margin: auto;  
   text-align: center;
