@@ -2,7 +2,7 @@ html, body {
   height: 100%;
   width: 100%;
   margin: 0;
-  padding: 20px 0;
+  padding-top: 5px;
 }
 .container{
   display: flex;
@@ -28,13 +28,12 @@ html, body {
 .alphabet {
   list-style: none;
   margin: 0;
-  /* max-width: 25vw; */
 }
 .alphabet li {
   color: #000;
   display: inline;
   font-weight: bold;
-  line-height: 3;
+  line-height: 2;
   letter-spacing: 20px;
 }
 .modal {
@@ -80,3 +79,13 @@ html, body {
   text-decoration: none;
 }
 
+@media (min-width: 650px){
+  .alphabet {
+    max-width: 50vw;
+  }
+}
+@media (min-width: 900px){
+  .alphabet {
+    max-width: 25vw;
+  }
+}
